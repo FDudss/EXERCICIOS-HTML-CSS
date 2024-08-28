@@ -1,0 +1,21 @@
+@charset "UFT=8";
+
+body{
+    background-color: rgb(33, 33, 33);
+}
+h1{
+    color: rgb(255, 248, 248);
+}
+
+.a{
+color: rgb(234, 246, 7);
+}
+.b{
+color: rgba(2, 245, 95, 0.799);
+}
+.c{
+color: rgb(14, 228, 178);
+}
+.d{
+color: rgb(32, 214, 230);
+}
